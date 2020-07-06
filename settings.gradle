@@ -1,0 +1,2 @@
+rootProject.name='com.ebookfrenzy.navigationdemo'
+include ':app'
